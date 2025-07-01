@@ -1,0 +1,86 @@
+[
+  {
+    "crn": "01087",
+    "course": "GEO 1",
+    "section": "01Y",
+    "seats": "Open",
+    "title": "Physical Geography",
+    "days": "·T·R···",
+    "times": "10:30 AM-11:20 AM",
+    "instructor": "Sohini Dutt",
+    "location": "L23",
+    "classInfo": "HY"
+  },
+  {
+    "crn": "01086",
+    "course": "GEO 1",
+    "section": "02Z",
+    "seats": "Open",
+    "title": "Physical Geography",
+    "days": "·····S·",
+    "times": "09:00 AM-11:20 AM",
+    "instructor": "Joseph Koroma",
+    "location": "ONLINE",
+    "classInfo": "OL"
+  },
+  {
+    "crn": "23396",
+    "course": "GEO 1",
+    "section": "50Z",
+    "seats": "Open",
+    "title": "Physical Geography",
+    "days": "·······",
+    "times": "TBA-TBA",
+    "instructor": "Sohini Dutt",
+    "location": "ONLINE",
+    "classInfo": "OL"
+  },
+  {
+    "crn": "27661",
+    "course": "GEO 4",
+    "section": "50Z",
+    "seats": "Open",
+    "title": "Cultural Geography",
+    "days": "·······",
+    "times": "TBA-TBA",
+    "instructor": "Kerry Rohrmeier",
+    "location": "ONLINE",
+    "classInfo": "OL"
+  },
+  {
+    "crn": "22794",
+    "course": "GEO 10",
+    "section": "50Z",
+    "seats": "Open",
+    "title": "World Regional Geography",
+    "days": "·······",
+    "times": "TBA-TBA",
+    "instructor": "Kerry Rohrmeier",
+    "location": "ONLINE",
+    "classInfo": "OL"
+  },
+  {
+    "crn": "22240",
+    "course": "GEO 10",
+    "section": "62Z",
+    "seats": "Open",
+    "title": "World Regional Geography",
+    "days": "·······",
+    "times": "TBA-TBA",
+    "instructor": "Eileen Pena",
+    "location": "ONLINE",
+    "classInfo": "OL"
+  },
+  {
+    "crn": "24095",
+    "course": "GEO 10",
+    "section": "65Z",
+    "seats": "Open",
+    "title": "World Regional Geography",
+    "days": "·······",
+    "times": "TBA-TBA",
+    "instructor": "Eileen Pena",
+    "location": "ONLINE",
+    "classInfo": "OL"
+  }
+]

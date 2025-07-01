@@ -1,0 +1,26 @@
+[
+  {
+    "crn": "01160",
+    "course": "HNDI 1",
+    "section": "40Z",
+    "seats": "Open",
+    "title": "Elementary Hindi (First Quarter)",
+    "days": "M·W····",
+    "times": "06:30 PM-08:45 PM",
+    "instructor": "Nilu Gupta",
+    "location": "ONLINE",
+    "classInfo": "OL"
+  },
+  {
+    "crn": "28405",
+    "course": "HNDI 1",
+    "section": "41Z",
+    "seats": "Open",
+    "title": "Elementary Hindi (First Quarter)",
+    "days": "·T·R···",
+    "times": "06:30 PM-08:45 PM",
+    "instructor": "Nilu Gupta",
+    "location": "ONLINE",
+    "classInfo": "OL"
+  }
+]

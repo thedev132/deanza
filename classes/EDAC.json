@@ -1,0 +1,62 @@
+[
+  {
+    "crn": "26801",
+    "course": "EDAC 232Z",
+    "section": "01F",
+    "seats": "Open",
+    "title": "Workplace Culture",
+    "days": "MTWR···",
+    "times": "08:00 AM-01:50 PM",
+    "instructor": "Monica De Carvalho",
+    "location": "HOPEB",
+    "classInfo": "OC"
+  },
+  {
+    "crn": "26802",
+    "course": "EDAC 232Z",
+    "section": "02F",
+    "seats": "Open",
+    "title": "Workplace Culture",
+    "days": "MTWR···",
+    "times": "08:00 AM-01:50 PM",
+    "instructor": "Cathy Phongsamran",
+    "location": "HOPEW",
+    "classInfo": "OC"
+  },
+  {
+    "crn": "28208",
+    "course": "EDAC 233",
+    "section": "1FY",
+    "seats": "Open",
+    "title": "Professional Conduct",
+    "days": "··W····",
+    "times": "04:00 PM-05:50 PM",
+    "instructor": "Monica De Carvalho",
+    "location": "HOPEB",
+    "classInfo": ""
+  },
+  {
+    "crn": "28212",
+    "course": "EDAC 233",
+    "section": "2FY",
+    "seats": "Open",
+    "title": "Professional Conduct",
+    "days": "··W····",
+    "times": "04:00 PM-05:50 PM",
+    "instructor": "Cathy Phongsamran",
+    "location": "HOPEW",
+    "classInfo": "OC"
+  },
+  {
+    "crn": "28092",
+    "course": "EDAC 234",
+    "section": "1FY",
+    "seats": "Open",
+    "title": "Civic Responsibility",
+    "days": "·T·····",
+    "times": "04:00 PM-05:50 PM",
+    "instructor": "Monica De Carvalho",
+    "location": "HOPEB",
+    "classInfo": ""
+  }
+]

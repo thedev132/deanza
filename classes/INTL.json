@@ -1,0 +1,38 @@
+[
+  {
+    "crn": "28051",
+    "course": "INTL 1",
+    "section": "60Z",
+    "seats": "Open",
+    "title": "Introduction to Global Studies",
+    "days": "·······",
+    "times": "TBA-TBA",
+    "instructor": "Miloni Gandhi",
+    "location": "ONLINE",
+    "classInfo": "OL"
+  },
+  {
+    "crn": "27720",
+    "course": "INTL 8",
+    "section": "50Z",
+    "seats": "Open",
+    "title": "Sociology of Globalization and Social Change",
+    "days": "·······",
+    "times": "TBA-TBA",
+    "instructor": "Marx Gomez Liendo",
+    "location": "ONLINE",
+    "classInfo": "OL"
+  },
+  {
+    "crn": "28050",
+    "course": "INTL 33",
+    "section": "60Z",
+    "seats": "Open",
+    "title": "Introduction to Peace and Conflict Studies",
+    "days": "·······",
+    "times": "TBA-TBA",
+    "instructor": "Veronica Keiffer-Lewis",
+    "location": "ONLINE",
+    "classInfo": "OL"
+  }
+]

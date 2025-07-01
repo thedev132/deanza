@@ -1,0 +1,74 @@
+[
+  {
+    "crn": "00691",
+    "course": "ENGR 10",
+    "section": "01",
+    "seats": "Open",
+    "title": "Introduction to Engineering",
+    "days": "MTW····",
+    "times": "09:30 AM-10:20 AM",
+    "instructor": "",
+    "location": "S42",
+    "classInfo": ""
+  },
+  {
+    "crn": "26675",
+    "course": "ENGR 10",
+    "section": "20",
+    "seats": "Open",
+    "title": "Introduction to Engineering",
+    "days": "MTW····",
+    "times": "01:30 PM-02:20 PM",
+    "instructor": "",
+    "location": "S42",
+    "classInfo": ""
+  },
+  {
+    "crn": "21889",
+    "course": "ENGR 10",
+    "section": "40",
+    "seats": "Open",
+    "title": "Introduction to Engineering",
+    "days": "·T·R···",
+    "times": "06:30 PM-07:45 PM",
+    "instructor": "",
+    "location": "S48",
+    "classInfo": ""
+  },
+  {
+    "crn": "26676",
+    "course": "ENGR 37",
+    "section": "40",
+    "seats": "Open",
+    "title": "Introduction to Circuit Analysis",
+    "days": "·T·R···",
+    "times": "06:30 PM-08:45 PM",
+    "instructor": "",
+    "location": "S42",
+    "classInfo": ""
+  },
+  {
+    "crn": "28379",
+    "course": "ENGR 37",
+    "section": "42",
+    "seats": "Open",
+    "title": "Introduction to Circuit Analysis",
+    "days": "M·W····",
+    "times": "06:30 PM-08:45 PM",
+    "instructor": "",
+    "location": "S42",
+    "classInfo": ""
+  },
+  {
+    "crn": "27959",
+    "course": "ENGR 77",
+    "section": "65R",
+    "seats": "Open",
+    "title": "Special Projects in Engineering",
+    "days": "····F··",
+    "times": "01:30 PM-04:20 PM",
+    "instructor": "",
+    "location": "G6",
+    "classInfo": ""
+  }
+]
